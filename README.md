@@ -6,7 +6,7 @@ Estou aprender a criar sites e agora vou gerenciar repositórios!
 <a href="https://alehbastos.github.io/html-css/Exercicios/ex001"> Executar o exercicio001 </a>
  
 <sytle>
-.border-topborder-gray-lightmt-5pt-3text-righttext-gray{
+.border-top.border-gray-light.mt-5.pt-3.text-right.text-gray{
     display:none;
                     }
 </style>
