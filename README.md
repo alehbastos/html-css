@@ -7,6 +7,6 @@ Estou aprender a criar sites e agora vou gerenciar repositórios!
  
 <sytle>
 .border-topborder-gray-lightmt-5pt-3text-righttext-gray{
-    display:none
-}
+    display:none;
+                    }
 </style>
